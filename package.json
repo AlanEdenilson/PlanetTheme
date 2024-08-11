@@ -1,0 +1,33 @@
+{
+  "name": "ackerman",
+  "displayName": "Ackerman",
+  "description": "Ackerman 369",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Planet_78",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Planet_78-color-theme.json"
+      }
+    ]
+  },
+  "icon":"icon/image.png",
+  "author": {
+    "name": "Alan Campos",
+    "email": "a.alan.campos.z@gmail.com",
+    "url": "https://nada"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlanEdenilson/PlanetTheme.git"
+  },
+  "publisher": "codigo-tecsup"
+}
+
