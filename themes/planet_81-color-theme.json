@@ -1,10 +1,10 @@
 {
-	"name": "Planeta_78",
+	"name": "Planeta_81",
 	"colors": {
-		"editor.background": "#645b5b",
+		"editor.background": "#48cc7d",
 		"editor.foreground": "#41d6d6",
 		"activityBarBadge.background": "#c7c409",
-		"sideBarTitle.foreground": "#812c2c"
+		"sideBarTitle.foreground": "#cc9494"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold",
-				"foreground": "#adadbb"
+				"foreground": "#a50c47"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ee2e2e"
+				"foreground": "#742b2b"
 			}
 		},
 		{

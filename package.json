@@ -1,8 +1,8 @@
 {
-  "name": "ackerman",
+  "name": "ackerman0.1",
   "displayName": "Ackerman",
   "description": "Ackerman 369",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
   "vscode": "^1.92.0"
 },
@@ -15,6 +15,11 @@
         "label": "Planet_78",
         "uiTheme": "vs-dark",
         "path": "./themes/Planet_78-color-theme.json"
+      },
+      {
+        "label": "Planet_81",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Planet_81-color-theme.json"
       }
     ]
   },
